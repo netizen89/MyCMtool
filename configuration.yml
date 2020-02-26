@@ -1,0 +1,13 @@
+hosts:
+  - webservers
+
+
+---
+username:
+  - root
+password:
+  - XWBNYMTCYSKUQXMJVFYTXFLI
+tasks:
+  - install apache
+  - install php
+
