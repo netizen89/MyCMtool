@@ -1,0 +1,7 @@
+#File to place ip addresses of servers
+#mention the group followed by the ip addresses in the group
+
+
+[webservers]
+54.234.181.229
+3.95.252.139
