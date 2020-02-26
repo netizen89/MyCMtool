@@ -1,12 +1,14 @@
-Introduction
+#MyCMTool
+
+##Introduction
 A rudimentary configuration management tool to configure two servers for production service of a simple PHP web application
 
 
-Commands
+##Commands
 python configure_server.py
 
 
-Usage
+##Usage
 
 Format : python configure_server.py
 
